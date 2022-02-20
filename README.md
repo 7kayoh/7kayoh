@@ -1,14 +1,5 @@
-<hr>
-nanako is a programmer and artist! i like code and draw!
-<hr>
+Artist and app/game developer. I like to learn new languages and code.
 
-i mainly use [visual studio code](https://code.visualstudio.com) for coding and i use a mac to code
-<hr>
-you should consider checking those out!
-
-- [my twitter](https://twitter.com/7kayoh)
-- [this page](https://github.com/7kayoh)
-
-<hr>
-
-thanks!!!! see you ヾ ^_^♪
+Visit my HP: [7kayoh.net](https://7kayoh.net)
+Visit my Medium: [7kayoh.medium.com](https://7kayoh.medium.com/)
+Send an e-mail to me: [hello@7kayoh.net](mailto:hello@7kayoh.net)
