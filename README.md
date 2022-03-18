@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="7kayoh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=7kayoh&show_icons=true&theme=gruvbox&disable_animations=true&locale=ja&hide_border=true" href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="7kayoh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=7kayoh&show_icons=true&theme=gruvbox&disable_animations=true&locale=ja&hide_border=true&custom_title=7kayohのGitHub統計" href="https://github.com/anuraghazra/github-readme-stats">
 </div>
 <br>
 Artist and app/game developer. I like to learn new languages and code.
